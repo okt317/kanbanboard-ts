@@ -1,0 +1,64 @@
+{
+  "kanbanBoard": [
+    {
+      "id": 1,
+      "title": "Todo",
+      "tasks": [
+        {
+          "id": 1,
+          "title": "Develop Mobile App",
+          "start": "2020-06-10",
+          "comment": "Waiting"
+        },
+        {
+          "id": 2,
+          "title": "Redesign Landing page",
+          "start": "2020-06-16",
+          "comment": "Waiting"
+        },
+        {
+          "id": 3,
+          "title": "New design for Landing",
+          "start": "2020-06-28",
+          "comment": "Approved"
+        },
+        {
+          "id": 4,
+          "title": "API Improvement",
+          "start": "2020-06-28",
+          "comment": "Approved"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "In Progress",
+      "tasks": [
+        {
+          "id": 5,
+          "title": "Create a new Landing UI",
+          "start": "2020-06-28",
+          "comment": "Approved"
+        },
+        {
+          "id": 6,
+          "title": "Brand Logo design",
+          "start": "2020-06-16",
+          "comment": "Waiting"
+        },
+        {
+          "id": 7,
+          "title": "Dashboard UI",
+          "start": "2020-06-25",
+          "comment": "Approved"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Done",
+      "tasks": []
+    }
+  ],
+  "listOrder": [1,2,3]
+}
